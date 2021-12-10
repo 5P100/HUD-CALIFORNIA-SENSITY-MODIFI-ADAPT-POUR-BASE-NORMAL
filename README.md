@@ -6,7 +6,7 @@ Hud adapté pour base normal, cet hud a été créer de base pour le serveur Cal
 
 🔗Social Medias
 ---------------------------------------------
-5% Leaks and Dev ➜ discord.gg/wuHPzTjwmB
+5% Leaks and Dev ➜ https://discord.gg/8akQqxUMtq
 
 📌Credits
 ----------------------------------------------
